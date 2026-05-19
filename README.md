@@ -16,7 +16,7 @@ Equipe 7
 * <a href="#">Ricardo Colpani Sprocati de OLiveira</a>
 * <a href="#">Walter Corradini Ferreira</a>
 * <a href="#">Fahd Ozelame Al Khaldi</a>
-* <a href="#">Eric Roberto Miglioli</a>
+* <a href="#">André Rohregger Machado</a>
 
 ## 👩‍🏫 Professores:
 
