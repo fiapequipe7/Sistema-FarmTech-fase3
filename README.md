@@ -305,7 +305,6 @@ Com acurácia de:
 ```
 
 ## 🗂 Estrutura da Etapa de Machine Learning
-
 ```text
 machine_learning/
 │
