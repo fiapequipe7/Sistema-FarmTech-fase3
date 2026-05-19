@@ -96,12 +96,18 @@ venv\Scripts\activate
 Mac/Linux
 
 source venv/bin/activate
+
 2️⃣ Instalar dependências
+
 pip install streamlit oracledb pandas matplotlib
 
 Gerar arquivo de dependências:
 
 pip freeze > requirements.txt
+
+3️⃣ Inicialização
+
+streamlit run app.py
 
 ## 📹 Vídeo Demonstrativo
 
