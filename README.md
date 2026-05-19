@@ -350,6 +350,8 @@ Execute as células em ordem, desde a importação das bibliotecas até a avalia
 
 # 📹 Vídeo Geral do Projeto
 
+https://youtu.be/4m4H_fK3UNk
+
 O vídeo abaixo apresenta as três etapas do projeto: Banco de Dados Oracle, Dashboard em Python e Machine Learning.
 
 ```text
